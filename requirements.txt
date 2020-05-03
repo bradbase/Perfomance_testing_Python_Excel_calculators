@@ -1,0 +1,2 @@
+xlcalculator >= 0.0.1b
+pycel >= 1.0b22
